@@ -176,6 +176,18 @@ main{
 .sponsors-img-container img{
     width: 165px;
 }
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 280px;
+    border-radius: 8px;
+    background: darksalmon;
+    width: 1440px;
+    height: 100px;
+    left: 300px;
+    
+}
 
 
 
